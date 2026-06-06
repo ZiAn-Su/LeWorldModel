@@ -470,3 +470,29 @@ LeWM 学的是：
 ```
 
 它有研究价值，但不是通用自学习智能体，也不是可以直接部署到新场景的现成控制模型。
+
+## 14. 参考资料
+
+核心资料：
+
+- LeWorldModel 论文 arXiv 页面：[LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](https://arxiv.org/abs/2603.19312)
+- LeWorldModel HTML 论文页面：[arXiv HTML v3](https://arxiv.org/html/2603.19312v3)
+- 官方代码仓库：[lucas-maes/le-wm](https://github.com/lucas-maes/le-wm)
+- stable-worldmodel 平台仓库：[galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel)
+
+Hugging Face 数据和权重：
+
+- Hugging Face paper 页面：[huggingface.co/papers/2603.19312](https://huggingface.co/papers/2603.19312)
+- TwoRoom 数据/权重入口：[quentinll/lewm-tworooms](https://huggingface.co/datasets/quentinll/lewm-tworooms)
+- PushT 数据/权重入口：[quentinll/lewm-pusht](https://huggingface.co/datasets/quentinll/lewm-pusht)
+- Cube 数据/权重入口：[quentinll/lewm-cube](https://huggingface.co/datasets/quentinll/lewm-cube)
+- Reacher 数据/权重入口：[quentinll/lewm-reacher](https://huggingface.co/datasets/quentinll/lewm-reacher)
+
+相关背景：
+
+- stable-worldmodel 论文：[stable-worldmodel: A Platform for Reproducible World Modeling Research and Evaluation](https://arxiv.org/abs/2605.21800)
+- DeepMind Control Suite：[dm_control](https://github.com/google-deepmind/dm_control)
+- OGBench：[seohongpark/ogbench](https://github.com/seohongpark/ogbench)
+- PushT 环境来源之一：[real-stanford/diffusion_policy](https://github.com/real-stanford/diffusion_policy)
+
+说明：以上资料用于理解 LeWM 方法、复现实验环境和定位数据来源。本仓库只记录本地 TwoRoom 小样本验证和方法理解，不包含官方完整实验复现。
