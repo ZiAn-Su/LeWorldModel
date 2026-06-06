@@ -1,0 +1,16 @@
+.stable-wm/
+resources/le-wm/.venv/
+resources/le-wm/outputs/
+resources/le-wm/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.env
+.venv/
+*.ckpt
+*.pt
+*.h5
+*.tar.zst
+*.mp4
+*.png
