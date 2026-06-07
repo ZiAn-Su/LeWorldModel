@@ -426,6 +426,14 @@ Minecraft 难很多。它有复杂画面、长时任务、离散键鼠动作、�
 F:\Research\LeWorldModel\resources\le-wm
 ```
 
+本地论文 PDF：
+
+```text
+F:\Research\LeWorldModel\resources\papers\leworldmodel_2603.19312v3.pdf
+F:\Research\LeWorldModel\resources\papers\understanding_world_or_predicting_future_2411.14499.pdf
+F:\Research\LeWorldModel\resources\papers\is_sora_a_world_simulator_2405.03520.pdf
+```
+
 TwoRoom 数据：
 
 ```text
@@ -477,6 +485,10 @@ LeWM 学的是：
 
 - LeWorldModel 论文 arXiv 页面：[LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](https://arxiv.org/abs/2603.19312)
 - LeWorldModel HTML 论文页面：[arXiv HTML v3](https://arxiv.org/html/2603.19312v3)
+- 综合世界模型综述：[Understanding World or Predicting Future? A Comprehensive Survey of World Models](https://arxiv.org/abs/2411.14499)
+- 综合世界模型综述 HTML：[arXiv HTML v4](https://arxiv.org/html/2411.14499v4)
+- 通用世界模型 / Sora 综述：[Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond](https://arxiv.org/abs/2405.03520)
+- 通用世界模型 / Sora 综述 HTML：[arXiv HTML](https://arxiv.org/html/2405.03520)
 - 官方代码仓库：[lucas-maes/le-wm](https://github.com/lucas-maes/le-wm)
 - stable-worldmodel 平台仓库：[galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel)
 
