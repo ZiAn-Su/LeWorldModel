@@ -14,3 +14,7 @@ __pycache__/
 *.tar.zst
 *.mp4
 *.png
+resources/*.pdf
+resources/papers/*.pdf
+resources/Awesome-World-Model/
+resources/le-wm/
